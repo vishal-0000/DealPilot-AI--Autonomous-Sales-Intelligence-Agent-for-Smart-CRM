@@ -1,4 +1,4 @@
-# DealPilot AI – Autonomous Sales Intelligence Agent (Agentforce Project)
+# DealPilot AI – Autonomous Sales Intelligence Agent
 
 ## Overview
 
